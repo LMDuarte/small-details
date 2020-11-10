@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+### Small Details
 
-You can use the [editor on GitHub](https://github.com/LMDuarte/small-details/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+When designing a visual, you have to make specific decisions for the lines, shapes, and the colors you will use. As data analysts, we cannot ignore the importance of visualization. The truth is that people need an incentive to care about data. Picking the correct lines, shapes, and colors can create an appealing and informative visual. A great example of the use of shapes, lines, and color is music visualization videos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Music visualization videos are visuals in which a melody plays in the background while different shapes attempt to represent what is being played. Sound as a visual is taking what is being picked up by one sense and presenting it to another. The visuals are abstract, popping, and colorful.
 
-### Markdown
+In most music visualization mediums, the colors reflect the mood of the melody. Warmer colors represent more vibrant songs, while cooler colors can be reserved for somber melodies. Recently this kind of visualization can also be seen in "RGB lighting." There are products such as lightbulbs or LED light strips, that attempt to visualize music in your living room. This can be a popular addition to home theaters or gaming systems. Another layer to color that should be noted; it's how vibrant it is. The color's intensity can change in the same visual, depending on the beat or volume of an instrument. Some of these changes in color and vibrancy lead to the appearance that the light is dancing.
+Shapes can play an essential part in designing a piece of music visually. The shapes presented in a visual can be presentative of either notes or peaks in the audio. An existing method of visualizing music is a music sheet. Some music visualization videos loosely follow the idea of a music sheet. Like a music sheet, shapes move left to the right and move up and down depending on the pitch. Shapes replace the notes, and all the instruments are presented in one visual. The choice of shape has less to do with the melody being represented and more, with visual clarity and aesthetics. If multiple instruments are characterized, then all the instruments should have distinct shapes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LMDuarte/small-details/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A stylish way to represent sound is with sound waves. Sound in itself is a wave and can be represented visually as such. A sound wave visual can be presented by a series of graphs or by lines peaking with the audio. Although other visualizations imitate dancing, this sort of visuals mimics speaking. The way lines move up and down at high speed makes it look like moving lips. The use of sound waves is prevalent because of its simplicity. It only needs one line to be able to represent sound.
